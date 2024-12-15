@@ -2,8 +2,6 @@ const BASE_URL = 'https://financialmodelingprep.com/api/v3/quote/';
 const API_KEY = "?apikey=0uvzdKTiimmwC0Rt7bMJzqSsl9qPtzGO";
 const NAME_URL = "https://financialmodelingprep.com/api/v3/search?query=";
 const smallApi = "0uvzdKTiimmwC0Rt7bMJzqSsl9qPtzGO";
-
-
 function start(){
     const form = document.getElementById("form");
     const form1 = document.getElementById("form1");
